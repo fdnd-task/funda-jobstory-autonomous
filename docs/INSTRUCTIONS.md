@@ -12,7 +12,8 @@ Dit is een zelfstandige opdracht voor een opdrachtgever.
 ## Briefing
 *In de briefing staat wat de opdracht is en wat de opdrachtgever wil.*
 
-De [Openbare Bibliotheek Amsterdam](https://www.oba.nl) (OBA) heeft een enorme collectie aan boeken. Ruim 422.000 titels staan in een database. Naast de titel en de schrijver kun je boeken op verschillende manieren vinden: hoeveel pagina's heeft het boek, is het een moeilijk of makkelijk boek, het genre, onderwerp, je kunt zelfs zoeken op de kleur van de kaft. Met de OBA-API kun je alle informatie over boeken opvragen en gebruiken om een website mee te maken.
+De [Openbare Bibliotheek Amsterdam](https://www.oba.nl) (OBA) heeft een enorme collectie aan boeken. Ruim 422.000 titels staan in een database. Naast de titel en de schrijver kun je boeken op verschillende manieren vinden: hoeveel pagina's heeft het boek, is het een moeilijk of makkelijk boek, het genre, onderwerp, je kunt zelfs zoeken op de kleur van de kaft. 
+Met de OBA-API kun je alle informatie over boeken opvragen en gebruiken om een website mee te maken.
 
 Ontwerp een user-interface voor het zoeken van een boek bij de OBA, voor jongeren van 12-14 jaar.
 
