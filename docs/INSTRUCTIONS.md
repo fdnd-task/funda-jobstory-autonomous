@@ -3,7 +3,7 @@
 Voor de opdracht Doorzoek-de-OBA-collectie leer je met externe data een user-interface ontwerpen en maken. 
 
 ## Context
-*In de context bij welke sprint deze leertaak hoort en welk [niveau de leertaak](https://github.com/fdnd/documents/blob/master/Bijlage%2006%20Didactiek%20en%20toetsing.md#leertaken) heeft.*
+*Bij welke sprint hoort deze leertaak en welk niveau heeft deze leertaak.*
 
 Leertaak: Werk voor een opdrachtgever een interactie uit met externe data. Deze leertaak hoort bij sprint 8 "Keep Users in Control". Dit is een zelfstandige opdracht voor een opdrachtgever.
 
@@ -20,7 +20,7 @@ Ontwerp de user interface voor het zoeken van een boek bij de OBA, voor jongeren
 Je leert hoe je externe data kunt laden en gebruiken om zoekresulaten te presenteren.
 
 ## Werkwijze
-*De werkwijze volgt de fasering van de [Development Life Cycle](https://github.com/fdnd/documents/blob/master/Bijlage%2006%20Didactiek%20en%20toetsing.md#development-life-cycle).*
+*De werkwijze volgt de fasering van de Development Life Cycle (DLC).*
 
 Ontwerp en maak een user interface op basis van deze Job Stories.
 
