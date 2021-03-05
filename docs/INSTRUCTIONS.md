@@ -3,19 +3,21 @@
 Voor de opdracht Doorzoek-de-OBA-collectie leer je met externe data een user-interface ontwerpen en maken. 
 
 ## Context
-    De context is hoe deze opdracht in de sprint past, welke leertaak het is en het niveau. Is het een voorbeeld in het college, een immitatietaak in een workshop, een experiment, of een zelfstandige taak voor een opdrachtgever?
+    Wat schrijven we hier?
+    Hoe deze opdracht in de sprint past, welke leertaak het is en welk niveau de leertaak heeft?
 
-Leertaak: Werk voor een opdrachtgever een interactie uit met externe data. Zelfstandige opdracht voor een opdrachtgever in sprint 8 "Keep users In Control".
+Leertaak: Werk voor een opdrachtgever een interactie uit met externe data. Deze opdracht oort bij sprint 8 "Keep Users in Control". Dit is een [zelfstandige opdracht voor een opdrachtgever](#niveau-van-een-leertaak).
 
 ## Briefing
+*In de briefing staat wat de opdracht is en wat de opdrachtgever wil.*
 
 De [Openbare Bibliotheek Amsterdam](https://www.oba.nl) (OBA) heeft een enorme collectie aan boeken. Ruim 422.000 titels staan in een database. Naast de titel en de schrijver kun je boeken op verschillende manieren vinden: hoeveel pagina's heeft et boek, is het een moeilijk of makkelijk boek, het genre, onderwerp, je kan zelfs zoeken op de kleur van de kaft. Met de OBA-API kun je alle informatie over boeken opvragen en gebruiken om een website mee te maken.
 
-Ontwerp de user interface voor het zoeken van een boek bij de OBA, voor jongeren uit groep 8 en klas 1 & 2.
+Ontwerp de user interface voor het zoeken van een boek bij de OBA, voor jongeren van 12-14 jaar.
 
 ## Doel van deze opdracht
     Wat schrijven we hier?
-    Wat leren de studenten relatie tot de focus van deze sprint.
+    Wat leren de studenten relatie tot de focus van deze sprint?
 
 In deze taak ga je leren hoe je externe data kan laden en gebruiken om zoekresulaten te presenteren.
 
@@ -30,13 +32,16 @@ Ontwerp en maak een user interface op basis van deze Job Stories.
 
 > "Ik wil suggesties krijgen als ik een zoekopracht geef die geen of weinig resultaten geeft."
 
+Deze opdracht gaat over alle fases van de DLC [analyseren](#analyseren), [ontwerpen](#ontwerpen), [bouwen](#bouwen), [integreren](#integreren) en [testen](#testen).
+
 ### Analyseren
 *In de analysefase inventariseer je wat er moet gebeuren om een taak uit te voeren.* 
 
 <details>
 <summary>Werkwijze</summary>
 
-1. De OBA-API uitpluizen, wat staat er allemaal in de JSON? Hoe kun je hier de  boeken voor een bepaalde leeftijd uit halen?
+1. Wie is de doelgroep? 
+2. De OBA-API uitpluizen, wat staat er allemaal in de JSON? Hoe kun je hier de  boeken voor een bepaalde leeftijd uit halen?
 
 #### Resources analyseren
 
@@ -50,10 +55,11 @@ Ontwerp en maak een user interface op basis van deze Job Stories.
 <details>
 <summary>Werkwijze</summary>
 
-1. Zoek UI voorbeelden voor het zoekformulier en tonen van resultaten.
-2. Schets per Job Stories de interface en werking.
-3. Ontwerp verschillende states. 
-4. Teken een break-down schets.
+1. [Doelgroep beschrijven in een user scenario](https://usabilla.com/blog/how-user-scenarios-help-to-improve-your-ux/)
+2. Zoek UI voorbeelden voor het zoekformulier en tonen van resultaten.
+3. Schets per Job Stories de interface en werking.
+4. Ontwerp verschillende states.
+5. Teken een break-down schets.
 
 #### Resources ontwerpen
 
@@ -124,11 +130,9 @@ n.v.t.
 
 Meer over [Leertaken, complexiteit en begeleiding in Didactiek en toetsing](hhttps://github.com/fdnd/documents/blob/master/Bijlage%2006%20Didactiek%20en%20toetsing.md#leertaken)
 
-# Development Life Cycle Werkwijze
+# Werkwijze volgens de Development Life Cycle
 
-Bij FDND gebruiken we deze fasering van de Development Life Cycle. Leertaken kunnen een of meerdere fases doorlopen.
-
-## Development Life Cycle
+Bij FDND gebruiken we voor de werkwijze de fasering van de Development Life Cycle. Leertaken kunnen een of meerdere fases doorlopen.
 
 1. Analyse.
 2. Design.
