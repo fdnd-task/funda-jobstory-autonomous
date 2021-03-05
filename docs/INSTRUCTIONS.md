@@ -14,9 +14,8 @@ De [Openbare Bibliotheek Amsterdam](https://www.oba.nl) (OBA) heeft een enorme c
 
 Ontwerp de user interface voor het zoeken van een boek bij de OBA, voor jongeren van 12-14 jaar.
 
-## Doel van deze opdracht
-    Wat schrijven we hier?
-    Wat leren de studenten in relatie tot de focus van deze sprint?
+## Doel van deze leertaak
+*Wat leer je in deze taak.*
 
 Je leert hoe je externe data kunt laden en gebruiken om zoekresulaten te presenteren.
 
