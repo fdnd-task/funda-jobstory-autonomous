@@ -38,8 +38,9 @@ Deze opdracht gaat over alle fases van de DLC [analyseren](#analyseren), [ontwer
 <details>
 <summary>Werkwijze</summary>
 
-1. Wie is de doelgroep? 
-2. De OBA-API uitpluizen, wat staat er allemaal in de JSON? Hoe kun je hier de  boeken voor een bepaalde leeftijd uit halen?
+1. Debriefing
+2. Wie is de doelgroep? 
+3. De OBA-API uitpluizen, wat staat er allemaal in de JSON? Hoe kun je hier de  boeken voor een bepaalde leeftijd uit halen?
 
 #### Resources analyseren
 
