@@ -6,20 +6,20 @@ Voor de opdracht Doorzoek-de-OBA-collectie leer je met externe data een user-int
     Wat schrijven we hier?
     Hoe deze opdracht in de sprint past, welke leertaak het is en welk niveau de leertaak heeft?
 
-Leertaak: Werk voor een opdrachtgever een interactie uit met externe data. Deze opdracht oort bij sprint 8 "Keep Users in Control". Dit is een [zelfstandige opdracht voor een opdrachtgever](#niveau-van-een-leertaak).
+Leertaak: Werk voor een opdrachtgever een interactie uit met externe data. Deze opdracht hoort bij sprint 8 "Keep Users in Control". Dit is een [zelfstandige opdracht voor een opdrachtgever](#niveau-van-een-leertaak).
 
 ## Briefing
 *In de briefing staat wat de opdracht is en wat de opdrachtgever wil.*
 
-De [Openbare Bibliotheek Amsterdam](https://www.oba.nl) (OBA) heeft een enorme collectie aan boeken. Ruim 422.000 titels staan in een database. Naast de titel en de schrijver kun je boeken op verschillende manieren vinden: hoeveel pagina's heeft et boek, is het een moeilijk of makkelijk boek, het genre, onderwerp, je kan zelfs zoeken op de kleur van de kaft. Met de OBA-API kun je alle informatie over boeken opvragen en gebruiken om een website mee te maken.
+De [Openbare Bibliotheek Amsterdam](https://www.oba.nl) (OBA) heeft een enorme collectie aan boeken. Ruim 422.000 titels staan in een database. Naast de titel en de schrijver kun je boeken op verschillende manieren vinden: hoeveel pagina's heeft het boek, is het een moeilijk of makkelijk boek, het genre, onderwerp, je kunt zelfs zoeken op de kleur van de kaft. Met de OBA-API kun je alle informatie over boeken opvragen en gebruiken om een website mee te maken.
 
 Ontwerp de user interface voor het zoeken van een boek bij de OBA, voor jongeren van 12-14 jaar.
 
 ## Doel van deze opdracht
     Wat schrijven we hier?
-    Wat leren de studenten relatie tot de focus van deze sprint?
+    Wat leren de studenten in relatie tot de focus van deze sprint?
 
-In deze taak ga je leren hoe je externe data kan laden en gebruiken om zoekresulaten te presenteren.
+Je leert hoe je externe data kunt laden en gebruiken om zoekresulaten te presenteren.
 
 ## Werkwijze
 *De werkwijze volgt de fasering van de [Development Life Cycle](#werkwijze-volgens-de-development-life-cycle).*
