@@ -1,46 +1,139 @@
-# Task instructions
-<!-- Remove this 👆 in the final task -->
-```
-# Naam
+# Doorzoek de OBA collectie
 
-De conventie voor naamgeving is opdrachtgever-opdracht-ondersteuningsniveau
-Topics: opdrachtgever-naam, semester-naam, sprint-naam, niveau-naam
+Voor de opdracht Doorzoek-de-OBA-collectie leer je met externe data een user-interface ontwerpen en maken. 
 
 ## Context
-Beschrijving opdrachtgever en context
+    De context is hoe deze opdracht in de sprint past, welke leertaak het is en het niveau. Is het een voorbeeld in het college, een immitatietaak in een workshop, een experiment, of een zelfstandige taak voor een opdrachtgever?
+
+Leertaak: Werk voor een opdrachtgever een interactie uit met externe data. Zelfstandige opdracht voor een opdrachtgever in sprint 8 "Keep users In Control".
 
 ## Briefing
-Beschrijving taak
+
+De [Openbare Bibliotheek Amsterdam](https://www.oba.nl) (OBA) heeft een enorme collectie aan boeken. Ruim 422.000 titels staan in een database. Naast de titel en de schrijver kun je boeken op verschillende manieren vinden: hoeveel pagina's heeft et boek, is het een moeilijk of makkelijk boek, het genre, onderwerp, je kan zelfs zoeken op de kleur van de kaft. Met de OBA-API kun je alle informatie over boeken opvragen en gebruiken om een website mee te maken.
+
+Ontwerp de user interface voor het zoeken van een boek bij de OBA, voor jongeren uit groep 8 en klas 1 & 2.
 
 ## Doel van deze opdracht
-Wat er met de taak moet worden bereikt
+    Wat schrijven we hier?
+    Wat leren de studenten relatie tot de focus van deze sprint.
 
-## Materiaal
-Bronnen en resources (artikelen, video's, visuals, talks, posters, etc)
+In deze taak ga je leren hoe je externe data kan laden en gebruiken om zoekresulaten te presenteren.
 
 ## Werkwijze
-Instructies over hoe te werk gaan, aan de hand van de development lifecycle,
-eventueel verder uitgewerkt in [Stappenplan](todo.md)  
-(In meer of mindere mate sturing afhankelijk van het niveau van de taak)
+*De werkwijze volgt de fasering van de Development Life Cycle.*
+
+Ontwerp en maak een user interface op basis van deze Job Stories.
+
+> "Als ik een boek zoek wil ik op basis van een genre een lijst boeken krijgen, die geschikt zijn voor mijn leeftijd."
+
+> "Ik wil in een lijst zoekresultaten de boeken op verschillende manieren kunnen filteren om een geschikt boek te vinden."
+
+> "Ik wil suggesties krijgen als ik een zoekopracht geef die geen of weinig resultaten geeft."
 
 ### Analyseren
+*In de analysefase inventariseer je wat er moet gebeuren om een taak uit te voeren.* 
+
+<details>
+<summary>Werkwijze</summary>
+
+1. De OBA-API uitpluizen, wat staat er allemaal in de JSON? Hoe kun je hier de  boeken voor een bepaalde leeftijd uit halen?
+
+#### Resources analyseren
+
+- [OBA-API documentatie](https://zoeken.oba.nl/api/v1/)
+
+</details>
+
 ### Ontwerpen
+*In de ontwerpfase neem je ontwerpbeslissingen en zorg je dat je precies weet wat je moet gaan bouwen.*
+
+<details>
+<summary>Werkwijze</summary>
+
+1. Zoek UI voorbeelden voor het zoekformulier en tonen van resultaten.
+2. Schets per Job Stories de interface en werking.
+3. Ontwerp verschillende states. 
+4. Teken een break-down schets.
+
+#### Resources ontwerpen
+
+- Artikel over states van een zoekformulier [How to fix a bad user interface](https://www.scotthurff.com/posts/why-your-user-interface-is-awkward-youre-ignoring-the-ui-stack/).
+
+</details>
+
 ### Bouwen
+*In de bouwfase realiseer je de beslissingen uit de ontwerpfase.*
+<details>
+<summary>Beschrijving</summary>
+
+1. Bouw het ontwerp.
+
+#### Resources bouwen
+
+n.v.t.
+
+</details>
+
+
 ### Integreren
-### Testen
+*In de integratiefase voer je de aanpassingen door zodat iedereen ze kan zien.*
+
+<details>
+<summary>Beschrijving</summary>
+
+1. Zet je code op Github. 
+
+#### Resources integreren
+
+- 
+
+</details>
+
+#### Testen
+*In de testfase controleer je of jouw aanpassingen werken zoals bedoeld.*
+
+<details>
+<summary>Beschrijving</summary>
+
+1. Presenteer je ontwerp bij de opdrachtgever.
+
+#### Resources testen
+
+- Tips over hoe je je werk presenteert een opdrachtgever, op basis van Job Stories. 
+
+</details>
 
 ## Criteria
-Definitions of done
+*Definitions of done*
 
-## Niveau van deze taak
+1. De data wordt van een externe bron ingeladen met Javascript.
+2. De zoekresultaten worden getoond in een webpagina.
+3. De UI is duidelijk en prettig te gebruiken met goede feedback en ...
+4. Een aantal states van de UI stack worden opgevangen en zijn vormgegeven.
+5. Verschillende *HTTP response status codes* zijn opgevangen en vormgegeven.
+
+# Niveau van een leertaak
 
 |   | Scaffolding | Description |
 | ---: | :----   | :--- |
-| a | Example | Uitgewerkt voorbeeld |
-| b | Duplicate | Immitatietaak |
+| a | Example | Uitgewerkt voorbeeld in het college |
+| b | Duplicate | Immitatietaak in een workshop |
 | c | Experiment | Taak zonder een specifiek doel |
 | d | Extension | Aanvultaak |
 | e | Autonomous | Taak zonder ondersteuning |
-```
 
+Meer over [Leertaken, complexiteit en begeleiding in Didactiek en toetsing](hhttps://github.com/fdnd/documents/blob/master/Bijlage%2006%20Didactiek%20en%20toetsing.md#leertaken)
 
+# Development Life Cycle Werkwijze
+
+Bij FDND gebruiken we deze fasering van de Development Life Cycle. Leertaken kunnen een of meerdere fases doorlopen.
+
+## Development Life Cycle
+
+1. Analyse.
+2. Design.
+3. Bouwen.  
+4. Integreren.
+5. Testen.
+
+Meer over de [Development Life Cycle in Didactiek en toetsing](hhttps://github.com/fdnd/documents/blob/master/Bijlage%2006%20Didactiek%20en%20toetsing.md#development-life-cycle)
