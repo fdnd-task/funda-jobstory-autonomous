@@ -128,7 +128,7 @@ n.v.t.
 | d | Extension | Aanvultaak |
 | e | Autonomous | Taak zonder ondersteuning |
 
-Meer over [Leertaken, complexiteit en begeleiding in Didactiek en toetsing](hhttps://github.com/fdnd/documents/blob/master/Bijlage%2006%20Didactiek%20en%20toetsing.md#leertaken)
+Meer over [Leertaken, complexiteit en begeleiding in Didactiek en toetsing](https://github.com/fdnd/documents/blob/master/Bijlage%2006%20Didactiek%20en%20toetsing.md#leertaken)
 
 # Werkwijze volgens de Development Life Cycle
 
@@ -140,4 +140,4 @@ Bij FDND gebruiken we voor de werkwijze de fasering van de Development Life Cycl
 4. Integreren.
 5. Testen.
 
-Meer over de [Development Life Cycle in Didactiek en toetsing](hhttps://github.com/fdnd/documents/blob/master/Bijlage%2006%20Didactiek%20en%20toetsing.md#development-life-cycle)
+Meer over de [Development Life Cycle in Didactiek en toetsing](https://github.com/fdnd/documents/blob/master/Bijlage%2006%20Didactiek%20en%20toetsing.md#development-life-cycle)
