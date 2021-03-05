@@ -20,26 +20,27 @@ Ontwerp de user interface voor het zoeken van een boek bij de OBA, voor jongeren
 Je leert hoe je externe data kunt laden en gebruiken om zoekresulaten te presenteren.
 
 ## Werkwijze
-*De werkwijze volgt de fasering van de Development Life Cycle (DLC).*
+*De werkwijze volgt de fasering van de Development Life Cycle.*
 
 Ontwerp en maak een user interface op basis van deze Job Stories.
 
-> "Als ik een boek zoek wil ik op basis van een genre een lijst boeken krijgen, die geschikt zijn voor mijn leeftijd."
+> "Als ik een boek zoek wil ik op basis van een genre een lijst boeken krijgen die geschikt zijn voor mijn leeftijd."
 
 > "Ik wil in een lijst zoekresultaten de boeken op verschillende manieren kunnen filteren om een geschikt boek te vinden."
 
-> "Ik wil suggesties krijgen als ik een zoekopracht geef die geen of weinig resultaten geeft."
+> "Ik wil suggesties krijgen als ik na een zoekopracht geen of weinig resultaten krijg."
 
 Deze opdracht gaat over alle fases van de DLC [analyseren](#analyseren), [ontwerpen](#ontwerpen), [bouwen](#bouwen), [integreren](#integreren) en [testen](#testen).
 
 ### Analyseren
-*In de analysefase inventariseer je wat er moet gebeuren om een taak uit te voeren.* 
+*In de analysefase inventariseer je wat er moet gebeuren om een taak uit te voeren.*
 
 <details>
 <summary>Aanpak</summary>
-1. Pas de breifing/debrief toe zoals je geleerd hebt.
-2. Onderzoek de doelgroep. 
-3. De OBA-API uitpluizen, wat staat er allemaal in de JSON? Hoe kun je hier de  boeken voor een bepaalde leeftijd uit halen?
+1. Onderzoek de doelgroep.
+2. Onderzoek de functionaliteiten.
+3. Onderzoek de OBA-API.
+4. Maak een debrief zoals je geleerd hebt.
 
 #### Materiaal
 
@@ -52,17 +53,16 @@ Deze opdracht gaat over alle fases van de DLC [analyseren](#analyseren), [ontwer
 
 <details>
 <summary>Aanpak</summary>
-
-1. Doelgroep beschrijven in een user scenario
-2. Zoek UI voorbeelden voor het zoekformulier en tonen van resultaten.
-3. Schets per Job Stories een wireflow van de interface en werking.
-4. Ontwerp verschillende states.
+1. Beschrijf de doelgroep in een user scenario.
+2. Zoek UI voorbeelden voor het zoekformulier en het tonen van resultaten.
+3. Schets per Job Story een wireflow van de interface en werking.
+4. Ontwerp de verschillende states.
 5. Teken een break-down schets.
 
 #### Materiaal
 
 - [How User Scenarios help To Improve Your UX](https://usabilla.com/blog/how-user-scenarios-help-to-improve-your-ux/)
-- Artikel over states van een zoekformulier [How to fix a bad user interface](https://www.scotthurff.com/posts/why-your-user-interface-is-awkward-youre-ignoring-the-ui-stack/).
+- [How to fix a bad user interface](https://www.scotthurff.com/posts/why-your-user-interface-is-awkward-youre-ignoring-the-ui-stack/).
 
 </details>
 
