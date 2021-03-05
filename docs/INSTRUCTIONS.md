@@ -1,18 +1,20 @@
-# Doorzoek de OBA collectie
+# Doorzoek de OBA Collectie
 
-Voor de opdracht Doorzoek-de-OBA-collectie leer je met externe data een user-interface ontwerpen en maken. 
+Voor de opdracht Doorzoek-de-OBA-Collectie ontwerp voor de OBA een user-interface met externe data.
 
 ## Context
 *Bij welke sprint hoort deze leertaak en welk niveau heeft deze leertaak.*
 
-Leertaak: Werk voor een opdrachtgever een interactie uit met externe data. Deze leertaak hoort bij sprint 8 "Keep Users in Control". Dit is een zelfstandige opdracht voor een opdrachtgever.
+Leertaak: Werk voor een opdrachtgever een interactie uit met externe data.
+Deze leertaak hoort bij sprint 8 "Keep Users in Control".
+Dit is een zelfstandige opdracht voor een opdrachtgever.
 
 ## Briefing
 *In de briefing staat wat de opdracht is en wat de opdrachtgever wil.*
 
 De [Openbare Bibliotheek Amsterdam](https://www.oba.nl) (OBA) heeft een enorme collectie aan boeken. Ruim 422.000 titels staan in een database. Naast de titel en de schrijver kun je boeken op verschillende manieren vinden: hoeveel pagina's heeft het boek, is het een moeilijk of makkelijk boek, het genre, onderwerp, je kunt zelfs zoeken op de kleur van de kaft. Met de OBA-API kun je alle informatie over boeken opvragen en gebruiken om een website mee te maken.
 
-Ontwerp de user interface voor het zoeken van een boek bij de OBA, voor jongeren van 12-14 jaar.
+Ontwerp een user-interface voor het zoeken van een boek bij de OBA, voor jongeren van 12-14 jaar.
 
 ## Doel van deze leertaak
 *Wat leer je in deze taak.*
@@ -107,7 +109,7 @@ n.v.t.
 
 #### Materiaal
 
-- Tips over hoe je je werk presenteert een opdrachtgever, op basis van Job Stories. 
+- Tips over hoe je je werk presenteert aan een opdrachtgever op basis van Job Stories. 
 
 </details>
 
