@@ -22,7 +22,7 @@ Ontwerp de user interface voor het zoeken van een boek bij de OBA, voor jongeren
 In deze taak ga je leren hoe je externe data kan laden en gebruiken om zoekresulaten te presenteren.
 
 ## Werkwijze
-*De werkwijze volgt de fasering van de Development Life Cycle.*
+*De werkwijze volgt de fasering van de [Development Life Cycle](#werkwijze-volgens-de-development-life-cycle).*
 
 Ontwerp en maak een user interface op basis van deze Job Stories.
 
