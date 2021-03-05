@@ -5,7 +5,7 @@ Voor de opdracht Doorzoek-de-OBA-collectie leer je met externe data een user-int
 ## Context
 *In de context bij welke sprint deze leertaak hoort en welk niveau de leertaak heeft.*
 
-Leertaak: Werk voor een opdrachtgever een interactie uit met externe data. Deze leertaak hoort bij sprint 8 "Keep Users in Control". Dit is een [zelfstandige opdracht voor een opdrachtgever](#niveau-van-een-leertaak).
+Leertaak: Werk voor een opdrachtgever een interactie uit met externe data. Deze leertaak hoort bij sprint 8 "Keep Users in Control". Dit is een [zelfstandige opdracht voor een opdrachtgever](https://github.com/fdnd/documents/blob/master/Bijlage%2006%20Didactiek%20en%20toetsing.md#leertaken).
 
 ## Briefing
 *In de briefing staat wat de opdracht is en wat de opdrachtgever wil.*
@@ -20,7 +20,7 @@ Ontwerp de user interface voor het zoeken van een boek bij de OBA, voor jongeren
 Je leert hoe je externe data kunt laden en gebruiken om zoekresulaten te presenteren.
 
 ## Werkwijze
-*De werkwijze volgt de fasering van de [Development Life Cycle](#werkwijze-volgens-de-development-life-cycle).*
+*De werkwijze volgt de fasering van de [Development Life Cycle](https://github.com/fdnd/documents/blob/master/Bijlage%2006%20Didactiek%20en%20toetsing.md#development-life-cycle).*
 
 Ontwerp en maak een user interface op basis van deze Job Stories.
 
@@ -118,26 +118,3 @@ n.v.t.
 4. Een aantal states van de UI stack worden opgevangen en zijn vormgegeven.
 5. Verschillende *HTTP response status codes* zijn opgevangen en vormgegeven.
 
-# Niveau van een leertaak
-
-|   | Scaffolding | Description |
-| ---: | :----   | :--- |
-| a | Example | Uitgewerkt voorbeeld in het college |
-| b | Duplicate | Immitatietaak in een workshop |
-| c | Experiment | Taak zonder een specifiek doel |
-| d | Extension | Aanvultaak |
-| e | Autonomous | Taak zonder ondersteuning |
-
-Meer over [Leertaken, complexiteit en begeleiding in Didactiek en toetsing](https://github.com/fdnd/documents/blob/master/Bijlage%2006%20Didactiek%20en%20toetsing.md#leertaken)
-
-# Werkwijze volgens de Development Life Cycle
-
-Bij FDND gebruiken we voor de werkwijze de fasering van de Development Life Cycle. Leertaken kunnen een of meerdere fases doorlopen.
-
-1. Analyse.
-2. Design.
-3. Bouwen.  
-4. Integreren.
-5. Testen.
-
-Meer over de [Development Life Cycle in Didactiek en toetsing](https://github.com/fdnd/documents/blob/master/Bijlage%2006%20Didactiek%20en%20toetsing.md#development-life-cycle)
