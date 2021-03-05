@@ -3,8 +3,7 @@
 Voor de opdracht Doorzoek-de-OBA-collectie leer je met externe data een user-interface ontwerpen en maken. 
 
 ## Context
-    Wat schrijven we hier?
-    Hoe deze opdracht in de sprint past, welke leertaak het is en welk niveau de leertaak heeft?
+*In de context bij welke sprint deze leertaak hoort en welk niveau de leertaak heeft.*
 
 Leertaak: Werk voor een opdrachtgever een interactie uit met externe data. Deze opdracht hoort bij sprint 8 "Keep Users in Control". Dit is een [zelfstandige opdracht voor een opdrachtgever](#niveau-van-een-leertaak).
 
