@@ -37,6 +37,7 @@ Deze opdracht gaat over alle fases van de DLC [analyseren](#analyseren), [ontwer
 
 <details>
 <summary>Aanpak</summary>
+
 1. Onderzoek de doelgroep.
 2. Onderzoek de functionaliteiten.
 3. Onderzoek de OBA-API.
@@ -53,6 +54,7 @@ Deze opdracht gaat over alle fases van de DLC [analyseren](#analyseren), [ontwer
 
 <details>
 <summary>Aanpak</summary>
+
 1. Beschrijf de doelgroep in een user scenario.
 2. Zoek UI voorbeelden voor het zoekformulier en het tonen van resultaten.
 3. Schets per Job Story een wireflow van de interface en werking.
@@ -100,7 +102,8 @@ n.v.t.
 <details>
 <summary>Aanpak</summary>
 
-1. Presenteer je ontwerp bij de opdrachtgever.
+1. Test je ontwerp en verwerk de testresultaten.
+2. Presenteer je ontwerp bij de opdrachtgever.
 
 #### Materiaal
 
