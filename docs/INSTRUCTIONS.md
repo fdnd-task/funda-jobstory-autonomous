@@ -5,7 +5,7 @@ Voor de opdracht Doorzoek-de-OBA-collectie leer je met externe data een user-int
 ## Context
 *In de context bij welke sprint deze leertaak hoort en welk niveau de leertaak heeft.*
 
-Leertaak: Werk voor een opdrachtgever een interactie uit met externe data. Deze opdracht hoort bij sprint 8 "Keep Users in Control". Dit is een [zelfstandige opdracht voor een opdrachtgever](#niveau-van-een-leertaak).
+Leertaak: Werk voor een opdrachtgever een interactie uit met externe data. Deze leertaak hoort bij sprint 8 "Keep Users in Control". Dit is een [zelfstandige opdracht voor een opdrachtgever](#niveau-van-een-leertaak).
 
 ## Briefing
 *In de briefing staat wat de opdracht is en wat de opdrachtgever wil.*
