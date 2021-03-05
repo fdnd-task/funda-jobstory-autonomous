@@ -36,7 +36,7 @@ Deze opdracht gaat over alle fases van de DLC [analyseren](#analyseren), [ontwer
 *In de analysefase inventariseer je wat er moet gebeuren om een taak uit te voeren.* 
 
 <details>
-<summary>Werkwijze</summary>
+<summary>Aanpak</summary>
 1. Pas de breifing/debrief toe zoals je geleerd hebt.
 2. Onderzoek de doelgroep. 
 3. De OBA-API uitpluizen, wat staat er allemaal in de JSON? Hoe kun je hier de  boeken voor een bepaalde leeftijd uit halen?
@@ -51,7 +51,7 @@ Deze opdracht gaat over alle fases van de DLC [analyseren](#analyseren), [ontwer
 *In de ontwerpfase neem je ontwerpbeslissingen en zorg je dat je precies weet wat je moet gaan bouwen.*
 
 <details>
-<summary>Werkwijze</summary>
+<summary>Aanpak</summary>
 
 1. Doelgroep beschrijven in een user scenario
 2. Zoek UI voorbeelden voor het zoekformulier en tonen van resultaten.
@@ -69,7 +69,7 @@ Deze opdracht gaat over alle fases van de DLC [analyseren](#analyseren), [ontwer
 ### Bouwen
 *In de bouwfase realiseer je de beslissingen uit de ontwerpfase.*
 <details>
-<summary>Beschrijving</summary>
+<summary>Aanpak</summary>
 
 1. Bouw het ontwerp.
 
@@ -84,7 +84,7 @@ n.v.t.
 *In de integratiefase voer je de aanpassingen door zodat iedereen ze kan zien.*
 
 <details>
-<summary>Beschrijving</summary>
+<summary>Aanpak</summary>
 
 1. Zet je code op Github. 
 
@@ -98,7 +98,7 @@ n.v.t.
 *In de testfase controleer je of jouw aanpassingen werken zoals bedoeld.*
 
 <details>
-<summary>Beschrijving</summary>
+<summary>Aanpak</summary>
 
 1. Presenteer je ontwerp bij de opdrachtgever.
 
