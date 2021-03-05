@@ -41,7 +41,7 @@ Deze opdracht gaat over alle fases van de DLC [analyseren](#analyseren), [ontwer
 2. Onderzoek de doelgroep. 
 3. De OBA-API uitpluizen, wat staat er allemaal in de JSON? Hoe kun je hier de  boeken voor een bepaalde leeftijd uit halen?
 
-#### Resources analyseren
+#### Materiaal
 
 - [OBA-API documentatie](https://zoeken.oba.nl/api/v1/)
 
@@ -59,7 +59,7 @@ Deze opdracht gaat over alle fases van de DLC [analyseren](#analyseren), [ontwer
 4. Ontwerp verschillende states.
 5. Teken een break-down schets.
 
-#### Resources ontwerpen
+#### Materiaal
 
 - [How User Scenarios help To Improve Your UX](https://usabilla.com/blog/how-user-scenarios-help-to-improve-your-ux/)
 - Artikel over states van een zoekformulier [How to fix a bad user interface](https://www.scotthurff.com/posts/why-your-user-interface-is-awkward-youre-ignoring-the-ui-stack/).
@@ -73,7 +73,7 @@ Deze opdracht gaat over alle fases van de DLC [analyseren](#analyseren), [ontwer
 
 1. Bouw het ontwerp.
 
-#### Resources bouwen
+#### Materiaal
 
 n.v.t.
 
@@ -88,7 +88,7 @@ n.v.t.
 
 1. Zet je code op Github. 
 
-#### Resources integreren
+#### Materiaal
 
 - 
 
@@ -102,7 +102,7 @@ n.v.t.
 
 1. Presenteer je ontwerp bij de opdrachtgever.
 
-#### Resources testen
+#### Materiaal
 
 - Tips over hoe je je werk presenteert een opdrachtgever, op basis van Job Stories. 
 
