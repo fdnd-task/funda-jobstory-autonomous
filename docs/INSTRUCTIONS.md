@@ -53,14 +53,15 @@ Deze opdracht gaat over alle fases van de DLC [analyseren](#analyseren), [ontwer
 <details>
 <summary>Werkwijze</summary>
 
-1. [Doelgroep beschrijven in een user scenario](https://usabilla.com/blog/how-user-scenarios-help-to-improve-your-ux/)
+1. Doelgroep beschrijven in een user scenario
 2. Zoek UI voorbeelden voor het zoekformulier en tonen van resultaten.
-3. Schets per Job Stories de interface en werking.
+3. Schets per Job Stories een wireflow van de interface en werking.
 4. Ontwerp verschillende states.
 5. Teken een break-down schets.
 
 #### Resources ontwerpen
 
+- [How User Scenarios help To Improve Your UX](https://usabilla.com/blog/how-user-scenarios-help-to-improve-your-ux/)
 - Artikel over states van een zoekformulier [How to fix a bad user interface](https://www.scotthurff.com/posts/why-your-user-interface-is-awkward-youre-ignoring-the-ui-stack/).
 
 </details>
