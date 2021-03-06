@@ -1,6 +1,6 @@
 # Doorzoek de OBA Collectie
 
-Voor de opdracht Doorzoek-de-OBA-Collectie ontwerp voor de OBA een user-interface met externe data.
+Voor de opdracht Doorzoek-de-OBA-Collectie ontwerp je voor de OBA een user-interface met externe data.
 
 ## Context
 *Bij welke sprint hoort deze leertaak en welk niveau heeft deze leertaak.*
