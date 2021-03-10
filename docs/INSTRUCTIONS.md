@@ -70,6 +70,8 @@ Deze opdracht gaat over alle fases van de DLC [analyseren](#analyseren), [ontwer
 - [How User Scenarios help To Improve Your UX](https://usabilla.com/blog/how-user-scenarios-help-to-improve-your-ux/)
 - [How to fix a bad user interface](https://www.scotthurff.com/posts/why-your-user-interface-is-awkward-youre-ignoring-the-ui-stack/).
 - [Schetsvaardigheden](https://www.youtube.com/channel/UCdVXQjEmKQJbEhClP94mX3Q)
+- [Huisstijlanalyse @ DLO](https://docs.google.com/presentation/d/1eWOeIJenetO8MAmLfIrzmtI4OpjVWh2Q-74pdUqkMe8/edit#slide=id.g1185d4c098_0_0)
+- [Creating a living styleguide @ LinkedInLearning](https://www.linkedin.com/learning/search?keywords=living%20styleguide&u=2132228)
 
 </details>
 
