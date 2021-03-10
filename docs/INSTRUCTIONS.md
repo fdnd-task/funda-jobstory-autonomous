@@ -44,7 +44,8 @@ Deze opdracht gaat over alle fases van de DLC [analyseren](#analyseren), [ontwer
 1. Onderzoek de doelgroep.
 2. Onderzoek de functionaliteiten.
 3. Onderzoek de OBA-API.
-4. Maak een debrief zoals je geleerd hebt.
+4. Analyseer de huisstijl.
+5. Maak een debrief zoals je geleerd hebt.
 
 #### Materiaal
 
