@@ -68,6 +68,7 @@ Deze opdracht gaat over alle fases van de DLC [analyseren](#analyseren), [ontwer
 
 - [How User Scenarios help To Improve Your UX](https://usabilla.com/blog/how-user-scenarios-help-to-improve-your-ux/)
 - [How to fix a bad user interface](https://www.scotthurff.com/posts/why-your-user-interface-is-awkward-youre-ignoring-the-ui-stack/).
+- [Schetsvaardigheden](https://www.youtube.com/channel/UCdVXQjEmKQJbEhClP94mX3Q)
 
 </details>
 
